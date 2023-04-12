@@ -1,0 +1,13 @@
+---
+title: "A/B Test Hypothesis Template"
+output: html_notebook
+---
+
+## Hypothesis
+
+| Criteria | Value |
+|----------|-------|
+| ON       |       |
+| IF       |       |
+| THEN     |       |
+| BECAUSE  |       |
